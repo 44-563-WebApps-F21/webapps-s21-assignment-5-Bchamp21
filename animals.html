@@ -40,10 +40,22 @@
                 </ul>
               </li>
             </ul>
-            <form class="d-flex">
-              <input class="form-control me-2" type="search" placeholder="Search" aria-label="Search">
-              <button class="btn btn-outline-success" type="submit">Search</button>
-            </form>
+            <form>
+                <div class="form-group">
+                  <label for="exampleInputEmail1" class="form-label">Email address</label>
+                  <input placeholder="Enter your email"  type="email" class="form-control" id="exampleInputEmail1" aria-describedby="emailHelp">
+                  <div id="emailHelp" class="form-text">We'll never share your email with anyone else.</div>
+                </div>
+                <div class="form-group">
+                  <label for="Enter your animal" class="form-label">Animal</label>
+                  <input placeholder="Enter your animal" type="text" class="form-control" id="exampleInputPassword1">
+                </div>
+                <div class="form-check">
+                  <label class="form-check-label" for="exampleCheck1">Sign up for newsletter?</label>
+                  <input type="checkbox" class="form-check-input" id="exampleCheck1">
+                </div>
+                <button type="submit" class="btn btn-primary">Submit</button>
+              </form>
           </div>
         </div>
       </nav>
