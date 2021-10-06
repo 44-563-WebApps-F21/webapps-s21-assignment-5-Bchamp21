@@ -1,3 +1,3 @@
 # WebApps-Assignment-5 Starter Code
 
-Hosted at https://github.com/44-563-WebApps-F21/webapps-s21-assignment-5-Bchamp21
+[Animals Page Hosted at ](https://44-563-web-apps-s21.github.io/webapps-s21-assignment-5-Bchamp21/animals.html)
